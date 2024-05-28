@@ -9,3 +9,4 @@ logs
 examples/*
 examples
 cache/hardhat-network-fork/network-1/*
+package-lock.json
