@@ -10,3 +10,5 @@ examples/*
 examples
 cache/hardhat-network-fork/network-1/*
 package-lock.json
+src/artifacts/contracts/**/**/*.dbg.json
+src/artifacts/@openzeppelin/**/*.dbg.json
